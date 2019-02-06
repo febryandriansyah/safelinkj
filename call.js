@@ -24,8 +24,8 @@ var xxx=null;
 if(x=="1"){xxx="/2019/02/how-you-your-partner-should-save-money.html"}
 if(x=="2"){xxx="/2019/02/make-your-health-insurance-plan-work.html"}
 if(x=="3"){xxx="/2019/02/traveling-alternative-roads-other.html"}
-if(x=="4"){xxx="/2017/08/lways-on-hunt-for-knowledge.html"}
-if(x=="5"){xxx="/choosing-credit-card-in-uk.html"}a_to_ve[i].href="https://safelinksj.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/2019/02/always-on-hunt-for-knowledge.html"}
+if(x=="5"){xxx="/2019/02/choosing-credit-card-in-uk.html"}a_to_ve[i].href="https://safelinksj.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
